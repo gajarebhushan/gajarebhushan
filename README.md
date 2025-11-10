@@ -4,7 +4,7 @@
 <h3 align="center">A young-dumb 🤓 PYTHON developer from Maharashtra</h3>
 - 📫 Reach me at **gajarebhushan34@gmail.com**
 
-- 👨‍💻 All of my projects are available at [gajarebhushan](https://gajarebhushan.github.io)
+- 👨‍💻 All of my projects are available at [gajarebhushan](https://gajarebhushan.github)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
